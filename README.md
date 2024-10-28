@@ -2,7 +2,7 @@
 
 ## Esteban Rebuffé-Mareau
 *Développeur Front-End & Full-Stack*  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Esteban%20Rebuffé--Mareau-blue?logo=linkedin&style=for-the-badge)]([https://www.linkedin.com/in/esrebuff/](https://www.linkedin.com/in/esteban-rebuff%C3%A9-mareau-aab8bb20a/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Esteban%20Rebuffé--Mareau-blue?logo=linkedin&style=for-the-badge)]([https://www.linkedin.com/in/esteban-rebuff%C3%A9-mareau-aab8bb20a/])  
 
 ---
 
