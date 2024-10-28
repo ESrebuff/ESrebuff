@@ -2,7 +2,7 @@
 
 ## Esteban Rebuffé-Mareau
 *Développeur Front-End & Full-Stack*  
-📍 Bruxelles | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Esteban%20Rebuffé--Mareau-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/esrebuff/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Esteban%20Rebuffé--Mareau-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/esrebuff/)  
 
 ---
 
